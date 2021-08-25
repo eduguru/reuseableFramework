@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+TODO: description of reuseableFramework is a set of classes, extensions, xib files that help instead of copy pasting to every project
                        DESC
 
   s.homepage         = 'https://github.com/eduguru/reuseableFramework'
