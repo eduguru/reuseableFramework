@@ -1,0 +1,22 @@
+{
+  "name": "reuseableFramework",
+  "version": "0.1.0",
+  "summary": "A short description of reuseableFramework.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/eduguru/reuseableFramework",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "eduguru": "eduguru.weru@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/eduguru/reuseableFramework.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "reuseableFramework/Classes/**/*"
+}

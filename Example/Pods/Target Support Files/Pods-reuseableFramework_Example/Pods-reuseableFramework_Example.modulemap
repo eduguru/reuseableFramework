@@ -1,0 +1,6 @@
+framework module Pods_reuseableFramework_Example {
+  umbrella header "Pods-reuseableFramework_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - reuseableFramework (0.1.0)
+
+DEPENDENCIES:
+  - reuseableFramework (from `../`)
+
+EXTERNAL SOURCES:
+  reuseableFramework:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  reuseableFramework: fe74aa1ae9a8532ec8193e8d85c922053947c16b
+
+PODFILE CHECKSUM: b5ddcce35c31a60a093e885be6dde6b52967e4be
+
+COCOAPODS: 1.10.1

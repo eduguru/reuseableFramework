@@ -1,0 +1,6 @@
+framework module reuseableFramework {
+  umbrella header "reuseableFramework-umbrella.h"
+
+  export *
+  module * { export * }
+}
